@@ -1,5 +1,5 @@
 # circard_bioinfo_server_module_check
-a general purpose utility to check the available modules from the circard servers and will provide support as you dont have to load the modules and then go through the list. It directly reads the bin files from the agi_bin files and then iterates over an indexed array stores them as memory and outputs the results by a operator comparison. To make it easier a brace expansion of the {a..z} so that you dont have to call each letter iteratively. 
+a module checker on slurm pbs for the installation of the computing cluster. You can use this on the CIRCAD server and also on any slurm or the pbs server and even configured with any instance. a general purpose utility to check the available modules from the circard servers and will provide support as you dont have to load the modules and then go through the list. It directly reads the bin files from the agi_bin files and then iterates over an indexed array stores them as memory and outputs the results by a operator comparison. To make it easier a brace expansion of the {a..z} so that you dont have to call each letter iteratively. 
 ```
 #!/usr/bin/env bash
 # -*- coding:  utf-8 -*-
