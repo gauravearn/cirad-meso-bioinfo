@@ -4,7 +4,7 @@ a module checker on slurm pbs for the installation of the computing cluster. You
 #!/usr/bin/env bash
 # -*- coding:  utf-8 -*-
 # Universität Potsdam, Germany
-# Author: Gaurav Sablok
+# Author: Gaurav 
 # date: 2024-2-12
 # using a iterative storage indexed array for the faster iterations
 echo "i am your module checker"
@@ -26,7 +26,7 @@ do
 fi
 done
 ```
-Gaurav Sablok,\
+Gaurav,\
 Academic Staff Member,\
 Bioinformatics,\
 Institute for Biochemistry and Biology,\
